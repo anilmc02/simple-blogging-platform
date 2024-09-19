@@ -96,9 +96,7 @@ A simple blogging platform where users can register, log in, create, edit, and d
 4. Push to the branch
 5. Create a new Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
