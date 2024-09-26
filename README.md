@@ -24,7 +24,7 @@ A simple blogging platform where users can register, log in, create, edit, and d
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/simple-blogging-platform.git
+    git clone https://github.com/anilmc02/simple-blogging-platform.git
     ```
 
 2. **Install Backend Dependencies**
